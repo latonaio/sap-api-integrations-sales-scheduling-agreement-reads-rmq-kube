@@ -1,0 +1,36 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-sales-scheduling-agreement-reads/SAP_API_Caller/caller.go#L65",
+	"function": "sap-api-integrations-sales-scheduling-agreement-reads/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": [
+		{
+			"SalesSchedulingAgreement": "30000001",
+			"PartnerFunction": "SP",
+			"Customer": "USCU_AU2",
+			"Supplier": "",
+			"AddressID": "50857"
+		},
+		{
+			"SalesSchedulingAgreement": "30000001",
+			"PartnerFunction": "BP",
+			"Customer": "USCU_AU2",
+			"Supplier": "",
+			"AddressID": "50857"
+		},
+		{
+			"SalesSchedulingAgreement": "30000001",
+			"PartnerFunction": "PY",
+			"Customer": "USCU_AU2",
+			"Supplier": "",
+			"AddressID": "50857"
+		},
+		{
+			"SalesSchedulingAgreement": "30000001",
+			"PartnerFunction": "SH",
+			"Customer": "USCU_AU2",
+			"Supplier": "",
+			"AddressID": "50857"
+		}
+	],
+	"time": "2022-01-27T22:43:35+09:00"
+}
